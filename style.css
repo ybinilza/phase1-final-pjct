@@ -73,3 +73,8 @@ header img{
 
 
 }
+.btn:hover {
+    background: violet;
+    border-color: var(--dark-color);
+    color:var(--light-color)
+}
