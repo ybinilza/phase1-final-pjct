@@ -34,3 +34,42 @@ header{
 
 }
 
+header img{
+    filter: invert(1);
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: var(--search-height);
+}
+
+.search input[type="text"] {
+    padding: 8px 10px;
+    line-height: 1.5;
+    font-size: 1rem;
+    border: none;
+    border-left: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
+    outline: none;
+    transition: all 200ms ease-in-out;
+
+}
+
+.search input[type="text"]:focus {
+    border-left-color: transparent;
+    border-bottom-color: var(--border-color);
+}
+
+.btn {
+    padding: 8px 10px;
+    background: transparent;
+    border-radius: 2px;
+    user-select: none;
+    font-size: 1rem;
+    border: 1px solid violet;
+    cursor: pointer;
+
+
+}
