@@ -101,6 +101,7 @@ header img{
     padding: 4px;
     box-shadow: 0px 0px 8px 2px var(--border-color);
     margin: 20px;
+    transition: all 200ms ease-in-out;
 }
 
 .receipe-title {
@@ -125,6 +126,12 @@ header img{
     visibility: hidden;
     opacity: 0;
     transition: all 200ms ease-in-out;
+    background: #ccc;
+    margin-top: 20px;
+    overflow: hidden;
+    overflow-y: auto;
+    transform: scale(.8);
+    transform-origin: top left;
 }
 
 .receipe-text ul {
@@ -136,4 +143,16 @@ header img{
 
 .receipe-text ul > li {
     padding: 5px;
+}
+
+
+.receipe:hover .receipe-text {
+    height: 120px;
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+}
+
+.receipe:hover {
+    height: 420px;
 }
