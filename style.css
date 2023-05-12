@@ -1,6 +1,36 @@
+:root{
+    --light-color : #fff;
+    --dark-color : green;
+    --header-height : 70px;
+    --search-height : 50px;
+    --border-color :#ccc;
+
+}
+
+
 * {
 margin: 0;
 padding:0;
 box-sizing: border-box;
 
 }
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background: var(--light-color);
+
+}
+
+header{
+    height: var(--header-height);
+    background: var(--dark-color);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: var(--light-color);
+    gap: 10px;
+    padding-right: 30px;
+
+}
+
