@@ -22,6 +22,11 @@ body{
 
 }
 
+.container{
+    text-align: center;
+    height: calc(100vh - var(--header-height));
+}
+
 header{
     height: var(--header-height);
     background: var(--dark-color);
@@ -43,6 +48,8 @@ header img{
     justify-content: center;
     align-items: center;
     height: var(--search-height);
+    gap:10px;
+    box-shadow: 0px 2px 8px 0px var(--border-color);
 }
 
 .search input[type="text"] {
@@ -54,12 +61,14 @@ header img{
     border-bottom: 1px solid transparent;
     outline: none;
     transition: all 200ms ease-in-out;
+    width: 60%;
 
 }
 
 .search input[type="text"]:focus {
     border-left-color: transparent;
     border-bottom-color: var(--border-color);
+    width:61%
 }
 
 .btn {
