@@ -15,8 +15,8 @@
                 "Salt and pepper",
                 "1 cup frozen peas, thawed"
             ],
-            "dishType": "main course",
-            "mealType": "lunch/dinner"
+            "dishType": "Main Course",
+            "mealType": "Lunch/Dinner"
         },
         {
             "id": 2,
@@ -35,8 +35,8 @@
                 "1/2 cup sour cream",
                 "1 tablespoon flour – all-purpose"
             ],
-            "dishType": "main course",
-            "mealType": "lunch/dinner"
+            "dishType": "Main Course",
+            "mealType": "Lunch/Dinner"
         },
         {
             "id": 3,
@@ -48,8 +48,8 @@
                 "1 glass red wine",
                 "400g can beef consommé"
             ],
-            "dishType": "main course",
-            "mealType": "lunch/dinner"
+            "dishType": "Main Course",
+            "mealType": "Lunch/Dinner"
         },
         {
             "id": 4,
@@ -61,7 +61,7 @@
                 "3 cups water"
             ],
             "dishType": "Side Item",
-            "mealType": "Evening"
+            "mealType": "Snacks"
         },
         {
             "id": 5,
@@ -73,6 +73,278 @@
             ],
             "dishType": "Side Item",
             "mealType": "Dinner"
+        },
+		{
+            "id": 6,
+            "label": "Vegan cupcakes",
+            "image": "Vegancupcakes.jpg",
+            "ingredientLines": [
+                "150ml almond or soy milk",
+				"½ tsp cider vinegar",
+				"110g vegan butter or sunflower spread",
+				"110g caster sugar",
+				"1 tsp vanilla extract",
+				"110g self-raising flour",
+				"½ tsp baking powder",
+				"125g vegan butter",
+				"250g icing sugar",
+				"1¼ tsp vanilla extract",
+				"a few drops of vegan food colourings (check the label)"
+            ],
+            "dishType": "Side Item",
+            "mealType": "Dessert"
+        },
+		{
+            "id": 7,
+            "label": "Vegan Chocolate-Coffee Muffins Recipe",
+            "image": "VeganChocolate-Coffee Muffins.jpg",
+            "ingredientLines": [
+					"1 1/2 cups all purpose flour",
+					"1/3 cup unsweetened cocoa powder",
+					"1 teaspoon baking soda",
+					"1/2 teaspoon salt",
+					"1 1/4 cups sugar",
+					"1 teaspoon instant espresso powder",
+					"1 cup freshly brewed coffee",
+					"1 teaspoon vanilla extract",
+					"1 teaspoon white vinegar",
+					"3/4 cup vegan chocolate chips or vegan chocolate, chopped"
+            ],
+            "dishType": "Side Item",
+            "mealType": "Dessert"
+        },
+		{
+            "id": 8,
+            "label": "Vegan Nachos",
+            "image": "VeganNachos.jpg",
+            "ingredientLines": [
+					   "1 bag corn tortilla chips",
+						"1½ cups go veggie! vegan mexican cheese shreds",
+						"1 cup fresh salsa",
+						"½ cup packed baby spinach",
+						"1 extra ripe avocado, peeled, pitted and mashed",
+						"½ tsp. sea salt",
+						"½ tsp. freshly ground pepper",
+						"½ tsp. crushed red pepper flakes",
+						"1 tbsp. sesame seeds",
+						"½ cup finely chopped cilantro, for topping"
+            ],
+            "dishType": "Side Item",
+            "mealType": "Snacks"
+        },
+		{
+            "id": 9,
+            "label": "Vegan Breakfast Sandwich",
+            "image": "VeganBreakfastSandwich.jpg",
+            "ingredientLines": [
+					 "1 (16 oz/450 g) brick medium-firm tofu",
+					"3/4 cup unsweetened nondairy milk",
+					"1/3 cup nutritional yeast",
+					"1/4 cup tapioca flour",
+					"1 teaspoon ground turmeric",
+					"1 teaspoon garlic powder",
+					"1 teaspoon onion powder",
+					"1 teaspoon sea salt",
+					"1/2 teaspoon ground pepper",
+					"2 tablespoons finely chopped chives",
+					"3 tablespoons vegan butter, for frying",
+					"5 English muffins, split in half",
+					"5 tablespoons vegan butter",
+					"5 vegan cheddar cheese slices",
+					"Cassava Bacon",
+					"2 vine tomatoes, sliced thick"
+            ],
+            "dishType": "Side Item",
+            "mealType": "Breakfast"
+        },
+		{
+            "id": 10,
+            "label": "Vegan Chocolate Pie",
+            "image": "VeganChocolatePie.jpg",
+            "ingredientLines": [
+					  "1 12.3-ounce package of extra firm, silken tofu",
+					  "1 1/2 teaspoons vanilla extract",
+					  "3 tablespoons almond, rice, or soy milk",
+					  "1 pinch sea salt",
+					  "2 tablespoons maple syrup (or to taste)",
+					  "1 1/2 cups vegan dark chocolate chips (semi-sweet)",
+					  "1 easy vegan graham cracker crust, recipe to follow",
+					  "12 graham cracker sheets",
+					  "2 tablespoons organic brown sugar",
+					  "1/4 cup melted coconut oil"
+            ],
+            "dishType": "Side Item",
+            "mealType": "Dessert"
+        },
+		
+		{
+            "id": 11,
+            "label": "Vegan Peanut Butter Cookies",
+            "image": "VeganPeanutButterCookies.jpg",
+            "ingredientLines": [
+						"1 cup blanched almond flour",
+						  "½ teaspoon celtic sea salt",
+						  "¼ teaspoon baking soda",
+						  "½ cup creamy roasted peanut butter",
+						  "¼ cup agave nectar",
+						  "2 tablespoons Spectrum vegan shortening",
+						  "1 teaspoon vanilla extract"
+            ],
+            "dishType": "Side Item",
+            "mealType": "Snacks"
+        },
+		
+		{
+            "id": 12,
+            "label": "Pandan Wrapped Roast Pork",
+            "image": "PandanWrappedRoastPork.jpg",
+            "ingredientLines": [
+						 "14 pandan (screw pine) leaves",
+						  "4 lbs pork butt or other well marbled cut of pork cut into large chunks",
+						  "smoked sea salt"
+				],
+            "dishType": "Main Course",
+            "mealType": "Lunch/ Dinner"
+        },
+		{
+            "id": 13,
+            "label": "Pork Quesadillas",
+            "image": "PorkQuesadillas.jpg",
+            "ingredientLines": [
+						"1 cup reserved roasted vegetables (from pork chops with fennel and carrots), coarsely chopped",
+						  "1 tablespoon chopped pickled jalapenos",
+						  "4 large flour tortillas",
+						  "2 reserved cooked pork chops (from pork chops with fennel and carrots)",
+						  "3 1/2 ounces monterey jack cheese, grated (1 cup)"
+				],
+            "dishType": "Main Course",
+            "mealType": "Lunch/ Dinner"
+        },
+		{
+            "id": 14,
+            "label": "Pork Lomitos",
+            "image": "PorkLomitos.jpg",
+            "ingredientLines": [
+						 "2pounds pork shoulder, cut into 1-inch pieces",
+						  "Salt",
+						  "2tablespoons pork lard or vegetable oil",
+						  "1 medium white onion, sliced 1/2-inch thick",
+						  "5garlic cloves, minced",
+						  "1 28ounce can fire-roasted diced tomatoes (I like Hunt's)",
+						  "3-5 chiles de arbol, seeds removed",
+						  "1sprig epazote or cilantro",
+						  "12warm corn tortillas for serving",
+						  "Pickled Red Onions for garnish"
+				],
+            "dishType": "Main Course",
+            "mealType": "Lunch/ Dinner"
+        },
+		{
+            "id": 15,
+            "label": "Pork Burgers",
+            "image": "PorkBurgers.jpg",
+            "ingredientLines": [
+						 "1/2 lb. ground pork",
+						  "1/2 lb. hot or sweet italian sausage",
+						  "1/2 teaspoon kosher salt",
+						  "1/4 teaspoon freshly ground black pepper"
+				],
+            "dishType": "Sides",
+            "mealType": "Snacks"
+        },
+		{
+            "id": 16,
+            "label": "Roasted Italian Plums",
+            "image": "RoastedItalianPlums.jpg",
+            "ingredientLines": [
+						  "2 3/4 pounds Italian prune plums, halved and pitted",
+						  "1/4 cup sugar",
+						  "2 tablespoons melted butter"
+				],
+            "dishType": "Main Course",
+            "mealType": "Lunch/Dinner"
+        },
+		{
+            "id": 17,
+            "label": "Italian Sliders",
+            "image": "ItalianSliders.jpg",
+            "ingredientLines": [
+								"1 1/2 pound ground beef",
+							  "1 pound hot Italian sausage",
+							  "1 teaspoon Italian seasoning",
+							  "1 medium onion chopped finely",
+							  "1 bell pepper chopped finely",
+							  "2 cloves minced garlic",
+							  "18 Dinner rolls (freshly baked best)",
+							  "8 ounces fresh Mozzarella sliced 1/4 inch thick",
+							  "4 large Roma tomatoes sliced 1/4 thick",
+							  "1/2 cup fresh large basil leaves",
+							  "3 tablespoons extra virgin olive oil",
+							  "3 tablespoons balsamic vinegar"
+				],
+            "dishType": "Sides",
+            "mealType": "Snacks"
+        },
+		{
+            "id": 18,
+            "label": "Italian Meatloaf",
+            "image": "ItalianMeatloaf.jpg",
+            "ingredientLines": [
+							"2 pounds Ground Beef",
+							  "6 slices Crusty Italian Bread",
+							  "1 cup Whole Milk",
+							  "1 cup Grated Parmesan",
+							  "4 whole Large Eggs",
+							  "1/3 cup Minced Parsley",
+							  "1 Tablespoon Italian Seasoning",
+							  "1 teaspoon Salt",
+							  "1/2 teaspoon Black Pepper",
+							  "12 slices Thin Pancetta (about 4 To 6 Ounces)",
+							  "2 cans Diced Tomatoes (drained)",
+							  "1/4 cup Brown Sugar",
+							  "1 teaspoon Dry Mustard",
+							  "1 pinch Cayenne Pepper",
+							  "5 dashes Worcestershire Sauce"
+				],
+            "dishType": "Main Course",
+            "mealType": "Lunch/Dinner"
+        },
+		{
+            "id": 19,
+            "label": "Italian Pot Roast",
+            "image": "ItalianPotRoast.jpg",
+            "ingredientLines": [
+							 "3 1/2 to 4 pound rump or chuck beef roast",
+							  "1 teaspoon salt plus more to taste",
+							  "1/2 teaspoon freshly ground black pepper",
+							  "1/2 cup extra virgin olive oil",
+							  "1 large carrot, diced (about 1 cup)",
+							  "1 large celery stalk, diced (about 1 cup)",
+							  "1 medium red onion, diced (1 to 1 1/2 cups)",
+							  "2 garlic cloves, finely minced",
+							  "2 Tbsp chopped fresh flat-leaf parsley",
+							  "1 bay leaf",
+							  "1 Tbsp finely chopped fresh sage",
+							  "3 cups medium-bodied Italian red wine (we used a Barbera)",
+							  "1 28-ounce can Italian plum tomatoes, put through a food mill to remove the seeds"
+				],
+            "dishType": "Main Course",
+            "mealType": "Lunch/Dinner"
+        },
+		{
+            "id": 20,
+            "label": "Italian Beef",
+            "image": "ItalianBeef.jpg",
+            "ingredientLines": [
+							 "1 1/2 pounds flank steak",
+							  "1/2 cup light Italian salad dressing",
+							  "1 1/2 cups tomato basil pasta sauce",
+							  "1 tablespoon chopped garlic",
+							  "1/4 cup Chianti red wine",
+							  "1 teaspoon Italian seasoning"
+				],
+            "dishType": "Sides",
+            "mealType": "Snacks"
         }
     ]
 }
