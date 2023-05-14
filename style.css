@@ -100,6 +100,12 @@ header img{
     
 }
 
+#search-heading {
+
+    color: blue;
+    text-align: center;
+}
+
 .receipe {
     height: 300px;
     width: 300px;

@@ -30,7 +30,6 @@ loadRecipes()
 
 
 function renderRecipes1(recipeObject) {
-    debugger;
     console.log(`inputval = ${inputVal}`)
     recipeContainer.innerHTML = "";
     let label = "";
