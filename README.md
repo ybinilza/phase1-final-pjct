@@ -8,7 +8,7 @@ The application also provides users with recipe including ingredients, which hel
 Search for a receipe and go shopping with the ingredient list handy from the receipe finder.
 Users can easily browse through the recipes and select the ones that appeal to them.
 
-One of the key features of the recipe finder web application is that it uses a db.json for  recipe data therefore has no external dependencies.
+One of the key features of the recipe finder web application is that it uses a db.json for  recipe data therefore has no external dependencies. More recipes can be added to the repository.
 
 Overall, the recipe finder web application is a powerful and versatile tool that is designed to make it easy and fun for users to find and cook delicious meals. It is an excellent resource for anyone who loves to cook, whether they are an experienced chef or a beginner looking to try something new.
 
