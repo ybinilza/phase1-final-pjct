@@ -2,7 +2,7 @@
 
 Receipe Finder:
 
-This Recipe Finder web site is a user-friendly and intuitive application that allows users to easily search for and find recipes. Users can find some of the popular Chicken, Beef, Fish,Pork, Vegan and Italian recipes they are looking for.
+This Recipe Finder web site is a user-friendly and intuitive application that allows users to easily search and find recipes. Users can find some of the popular Chicken, Beef, Fish, Pork, Vegan and Italian recipes they are looking for.
 
 The application also provides users with recipe including ingredients, which helps users make informed decisions about what they want to cook. 
 Search for a receipe and go shopping with the ingredient list handy from the receipe finder.
