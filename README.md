@@ -1,4 +1,4 @@
-# phase1-final-pjct
+# Phase1-Final-project
 
 Receipe Finder:
 
